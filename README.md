@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# *GitHub Actions* HelloWorld for JS
+# *GitHub Actions* HelloWorld
 
 ## Feature tags
 
