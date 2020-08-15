@@ -26,7 +26,7 @@
 
 ## Running
 
-Push to [this repo](https://github.com/softspiders/github-action)  and see output log in Actions Tab
+Push to [this repo](https://github.com/softspiders/github-action)  and see 'Hello!' in output log of Actions Tab
 
 ### License
 
