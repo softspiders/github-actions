@@ -14,7 +14,7 @@
 
 ## Children
 
-- [+ ***js***: javascript](https://github.com/softspiders/javascript)
+- [+ ***js***: js-github-actions](https://github.com/softspiders/js-github-actions)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Running
 
-Do push to [this repo](https://github.com/softspiders/github-action)  and see output log in Actions Tab
+Push to [this repo](https://github.com/softspiders/github-action)  and see output log in Actions Tab
 
 ### License
 
