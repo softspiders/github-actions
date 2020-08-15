@@ -9,13 +9,12 @@
 ## Feature tags
 
 - github-actions
-- javascript
 - starter
 - template
 
-## Parents
+## Children
 
-- [- ***github-actions***: javascript](https://github.com/softspiders/javascript)
+- [+ ***js***: javascript](https://github.com/softspiders/javascript)
 
 ---
 
@@ -25,17 +24,9 @@
 
 ---
 
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/)
-
----
-
 ## Running
 
-```sh
-TBD
-```
+Do push to [this repo](https://github.com/softspiders/github-action)  and see output in Actions Tab
 
 ### License
 
